@@ -24,7 +24,7 @@ Download the code to your local machine.
 Run the script in your terminal or command prompt:
 
 ```bash
-python todo_app.py
+python To-do-app.py
 ```
 
 ### 3. Menu Options
